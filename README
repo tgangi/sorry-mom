@@ -1,0 +1,7 @@
+Open index.html to run it locally on your browser
+All pages are reactively programmed with jQuery, except for the "MeettheInstruemnts w/ CSS" page.
+That page is is also reactively programmed, but it is done so exclusively with CSS and not jQuery.
+
+This project was one of the first website I designed and developed, and the first that I did with reactivity in mind.
+It is a simple and fun showcase of a band that I was in during college.
+This project also imcorporates Bootstrap integration.
